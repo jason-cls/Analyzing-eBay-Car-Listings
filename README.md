@@ -6,7 +6,7 @@ The focus of this project was to clean and analyze car listing data from eBay Kl
 - The mean price of the luxury cars decreased as mean mileage increased
 - No correlation was observed between price and mileage for non-luxury commercial cars
 
-### Libraries
+### Libraries used
 - pandas
 - numpy
 - matplotlib
